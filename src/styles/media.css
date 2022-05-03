@@ -1,0 +1,1191 @@
+/* 1440px */
+
+@media (max-width: 1440px) {
+    .header_hamburger_btn {
+        left: 162px;
+    }
+    .header_search input:focus {
+        width: 74vw;
+        opacity: 1;
+        cursor: text;
+      }
+    
+      .header_search input:focus~.search {
+        left: 70vw;
+        background: transparent;
+        z-index: 6;
+      }
+
+    .header_search {
+        left: 210px;
+    }
+}
+
+/* 1280px */
+
+@media (max-width: 1280px) {
+    .header_hamburger_btn {
+        left: 145px;
+    }
+
+    .header_hamburger_box {
+        top: 26%;
+    }
+
+    .header_search input:focus {
+        width: 74vw;
+        opacity: 1;
+        cursor: text;
+      }
+    
+      .header_search input:focus~.search {
+        left: 70vw;
+        background: transparent;
+        z-index: 6;
+      }
+
+    .order_text_destination p {
+        padding-left: 2px;
+    }
+
+    .order_text_destination h3 {
+        font-size: 70px;
+    }
+
+    .order_text_destination h4 {
+        font-size: 60px;
+    }
+}
+
+/* 1152px */
+
+@media (max-width: 1152px) {
+    .header_hamburger_box {
+        padding: 60px 0;
+    }
+
+    .header_hamburger_btn {
+        left: 132px;
+    }
+
+    .header_search input:focus {
+        width: 71vw;
+        opacity: 1;
+        cursor: text;
+      }
+    
+      .header_search input:focus~.search {
+        left: 66vw;
+        background: transparent;
+        z-index: 6;
+      }
+
+    .ship_info > div > p {
+        font-family: AvenirLTStd-Heavy;
+        font-size: 15px;
+        width: 481px;
+        line-height: 25.16px;
+    }
+
+    .order_text_destination p {
+        padding-left: 5px;
+    }
+
+    .order_text_destination h3 {
+        font-size: 70px;
+    }
+
+    .order_text_destination h4 {
+        font-size: 60px;
+    }
+
+    .order_text {
+        display: grid;
+        grid-template-columns: 2fr 1fr 2fr;
+        column-gap: 60px;
+    }
+
+    .order_text_details-container {
+        width: 130px;
+    }
+
+    .order_text_details-container hr {
+        width: 130px;
+    }
+
+    .order_text_details h5 {
+        font-size: 11px;
+    }
+
+    .order_text_details p {
+        font-size: 24px;
+    }
+
+    .order_text_elonMask p {
+        font-size: 13px;
+        margin: 104px 0 28px 0;
+    }
+
+    .order_text_elonMask a {
+        font-size: 11px;
+    }
+
+
+}
+
+/* 1024px */
+
+@media (max-width: 1024px) {
+    .header_hamburger_btn {
+        left: 119px;
+    }
+
+    .header_search {
+        left: 160px;
+    }
+
+    .header_hamburger_box {
+        top: 28%;
+    }
+
+    .promo {
+        background-position: 50% 0%
+    }
+
+    .ship_demostration_right img {
+        width: 710px;
+        height: 360px;
+    }
+
+    .ship_demonstration_right-text {
+        margin-left: -140px;
+    }
+
+    .ship_info {
+        display: grid;
+        grid-template-columns:  1fr 2fr;
+        column-gap: 40px;
+        margin-bottom: 200px;
+    }
+
+    .ship_info > div > p {
+        font-size: 14px;
+        width: 426px;
+    }
+
+    .moon_info_text {
+        width: 279px;
+    }
+
+    .moon_info_container {
+        width: 350px;
+    }
+    
+    .moon_info_container hr {
+        width: 325px;
+    }
+
+    .mars_info_text {
+        width: 339px;
+    }
+
+    .mars_info_container {
+        width: 320px;
+    }
+    
+    .mars_info_container hr {
+        width: 320px;
+    }
+
+    .europa_info h3 {
+        font-size: 87px;
+    }
+
+    .europa_info_text {
+        width: 339px;
+    }
+
+    .europa_info_container {
+        width: 360px;
+    }
+    
+    .europa_info_container hr {
+        width: 320px;
+    }
+
+    .order_text_destination p {
+        padding-left: 38px;
+    }
+
+    .order_text_destination h3 {
+        font-size: 70px;
+        padding-left: 38px;
+    }
+
+    .order_text_destination h4 {
+        font-size: 60px;
+        padding-left: 38px;
+    }
+
+    .order_text {
+        display: grid;
+        grid-template-columns: 2fr 1fr 2fr;
+        column-gap: 60px;
+    }
+
+    .order_text_details-container {
+        width: 130px;
+    }
+
+    .order_text_details-container hr {
+        width: 130px;
+    }
+
+    .order_text_details h5 {
+        font-size: 11px;
+    }
+
+    .order_text_details p {
+        font-size: 24px;
+    }
+
+    .order_text_elonMask p {
+        font-size: 13px;
+        margin: 104px 0 28px 0;
+    }
+
+    .order_text_elonMask a {
+        font-size: 11px;
+    }
+
+    .footer_top_logo {
+        width: 211px;
+    }
+
+    .footer_top_links {
+        column-gap: 62px;
+    }
+
+    .footer_top_socialNetworks img {
+        padding: 8px;
+        width: 105%;
+    }
+}
+
+/* 900px */
+
+@media(max-width: 900px) {
+    .order_text_elonMask p {
+       width: 270px;
+    }
+}
+
+/* 800px */
+
+@media (max-width: 800px) {
+    .header_hamburger_btn {
+        left: 96px;
+    }
+
+    .header_search {
+        left: 135px;
+    }
+    
+      .header_search input:focus~.search {
+        left: 62vw;
+        background: transparent;
+        z-index: 6;
+      }
+
+    .ship_demostration_right {
+        margin-left: 0px;
+    }
+
+    .ship_demostration_right img {
+        width: 610px;
+        height: 260px;
+        padding-top: 30px;
+    }
+
+    .ship_demonstration_right-text {
+        margin-left: -55px;
+        margin-top: -40px;
+    }
+
+    .ship_info {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        margin-bottom: 30px;
+    }
+
+    .ship_info > div > p {
+        text-align: center;
+        font-size: 14px;
+        width: 485px;
+    }
+
+    .ship_info > p {
+        text-align: center;
+        width: 562px;
+        margin-bottom: 30px;
+    }
+
+    .ship_info > div > h4 {
+        margin-bottom: 10px;
+        text-align: center;
+    }
+
+    .ship_demonstration {
+        padding-top: 50px;
+        margin-bottom: 20px;
+    }
+
+    .ship_demonstration_wrapper {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+    .ship_demonstration_left h4 {
+        text-align: center;
+        width: 540px;
+        margin-bottom: 30px;
+    }
+
+    .ship_ref {
+        flex-direction: column;
+        align-items: center;
+        padding-bottom: 50px;
+    }
+
+    .ship_ref_container hr {
+        width: 430px;
+    }
+
+    .moon {
+        padding-top: 50px;
+        position:unset;
+        overflow: unset;
+    }
+
+    .moon_wrapper {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .moon_wrapper > img {
+        position: unset;
+        left:unset;
+        top:unset;
+        width:unset;
+        height:unset;
+        object-fit: none;
+        object-position:unset;
+    }
+
+    .moon_info {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-top: unset;
+        margin-bottom: -40px;
+    }
+
+    .moon_info_text {
+        padding-left: unset;
+        text-align: center;
+    }
+
+    .moon_info h3 {
+        margin-bottom: 10px;
+    }
+
+    .moon_info_brief {
+        padding-left: unset;
+    }
+
+    .moon_info_container {
+        display: none;
+        padding-bottom:unset;
+    }
+
+    .mars {
+        padding-top: 50px;
+        position:unset;
+        overflow: unset;
+    }
+
+    .mars_wrapper {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .mars_wrapper > img {
+        position: unset;
+        left:unset;
+        top:unset;
+        width:unset;
+        height:unset;
+        object-fit: none;
+        object-position:unset;
+    }
+
+    .mars_info {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-top: unset;
+        margin-bottom: -40px;
+    }
+
+    .mars_info_text {
+        padding-left: unset;
+        text-align: center;
+    }
+
+    .mars_info h3 {
+        margin-bottom: 10px;
+    }
+
+    .mars_info_brief {
+        padding-left: unset;
+    }
+
+    .mars_info_container {
+        display: none;
+        padding-bottom:unset;
+    }
+
+    .europa {
+        padding-top: 50px;
+        position:unset;
+        overflow: unset;
+    }
+
+    .europa_wrapper {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .europa_wrapper > img {
+        position: unset;
+        left:unset;
+        top:unset;
+        width:unset;
+        height:unset;
+        object-fit: none;
+        object-position:unset;
+    }
+
+    .europa_info {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-top: unset;
+        margin-bottom: -40px;
+    }
+
+    .europa_info_text {
+        padding-left: unset;
+        text-align: center;
+    }
+
+    .europa_info h3 {
+        margin-bottom: 10px;
+    }
+
+    .europa_info_brief {
+        padding-left: unset;
+    }
+
+    .europa_info_container {
+        display: none;
+        padding-bottom:unset;
+    }
+
+    .order_wrapper {
+        flex-direction: column;
+        align-items: unset;
+        justify-content: unset;
+    }
+
+    .order_text {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        grid-template-columns: unset;
+        column-gap: unset;
+    }
+
+    .order_text_destination p {
+        padding-top: 100px;
+        padding-left: unset;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+
+    .order_text_destination h3 {
+        padding-left: unset;
+    }
+
+    .order_text_destination h4 {
+        padding-left: unset;
+        text-align: center;
+    }
+
+    .order_text_details {
+        text-align: center;
+    }
+
+    .order_text_details-container hr {
+        width: 158px;
+    }
+
+    .order_text_details-container {
+        margin-bottom: 35px;
+        width: 158px;
+    }
+
+    .order_text_elonMask {
+        text-align: center;
+    }
+
+    .order_text_elonMask p {
+        width: 371px;
+        margin: 0;
+        font-size: 12px;
+    }
+
+    .form_div:nth-child(2) .form_select {
+        background-position: right 6px top 50%, 0 0;
+    }
+
+    .footer_top {
+        padding-top: 20px;
+        flex-direction: column;
+        align-items: center;
+        padding-bottom: unset;
+    }
+
+    .footer_top_logo {
+        width: unset;
+        height: unset;
+        width: 180px;
+        height: 64px;
+        margin-right: unset;
+        margin-bottom: 20px;
+        padding-bottom: 30px;
+    }
+
+    .footer_top_links {
+        margin-bottom: 30px;
+    }
+}
+
+/* 768px */
+
+@media (max-width: 769px) {
+    .footer_bottom a {
+        font-size: 11px;
+    }
+
+    .footer_bottom p {
+        font-size: 11px;
+    }
+
+    .moon_info h3 {
+        font-size: 80px;
+    }
+    
+    .mars_info h3 {
+        font-size: 80px;
+    }
+    
+    .europa_info h3 {
+        font-size: 80px;
+    }
+}
+
+/* 500px */
+
+@media (max-width: 500px) {
+    .promo_text h3 {
+        font-size: 80px;
+    } 
+
+}
+
+/* 425px */
+
+@media (max-width: 426px) {
+    .header {
+        padding-top: unset;
+    }
+
+    .header_hamburger_btn {
+        left: 44px;
+        top: 56px;
+        height: 14px;
+    }
+
+    .header_hamburger_btn > span::before {
+        width: 80%;
+        content: '';
+        top: -5px;
+    }
+
+    .header_hamburger_btn > span {
+        width: 80%;
+    }
+    
+      .header_hamburger_btn > span::after {
+        width: 55%;
+        content: '';
+        top: 5px;
+    }
+
+    .header_search {
+        left: 63px;
+        top:  13px;
+        font-size: 15px;
+    }
+
+    .header_search .search::before {
+        top: 10px;
+        right: 10px;
+        bottom: -1px;
+        left: 16px;
+        width: 5px;
+        height: 2px;
+      }
+    
+      .header_search .search::after {
+        top: -2px;
+        left: -4px;
+        width: 10px;
+        height: 10px;
+      }
+
+      .header_search input:focus {
+        width: 74vw;
+        height: 30%;
+        opacity: 1;
+        cursor: text;
+      }
+    
+      .header_search input:focus~.search {
+        left: 62vw;
+        background: transparent;
+        z-index: 6;
+      }
+
+      .header_search input:focus~.search::before {
+        width: 17px;
+      }
+    
+      .header_search input:focus~.search::after {
+        width: 17px;
+      }
+
+      .header_search input::placeholder {
+        font-size: 15px;
+      }
+
+    .header_logo {
+        background-size: contain;
+        width: 120px;
+        height: 62px;
+    }
+
+    .header_login {
+        font-size: 10px;
+        padding-bottom: 16px;
+    }
+
+    .button_order {
+        padding: 20px 20px;
+        font-size: 13px;
+    }
+
+    .ship_demonstration_left h4 {
+        font-size: 37px;
+        width: 385px;
+    }
+
+    .ship_demostration_right img {
+        width: 376px;
+        height: 210px;
+    }
+
+    .ship_demonstration_right-text {
+        margin-left: -105px;
+    }
+
+    .ship_demonstration_right-text p {
+        font-size: 11px;
+        margin-bottom: 9px;
+    }
+
+    .ship_demonstration_right-text h5 {
+        font-size: 20px;
+    }
+
+    .ship_button {
+        width: 25px;
+        height: 25px;
+        margin-left: 25px;
+        margin-right: unset;
+    }
+
+    .orange {
+        margin-left: 10px;
+    }
+
+    .ship_button img {
+        width: 14px;
+        height: 10px;
+        margin-bottom: 18px;
+    } 
+
+    .ship_info {
+        margin-bottom: 10px;
+    }
+
+    .ship_info > p {
+        font-size: 12px;
+        width: 340px;
+    }
+
+    .ship_info > div > h4 {
+        font-size: 30px;
+    }
+
+    .ship_info > div > p {
+        font-size: 12px;
+        width: 356px;
+    }
+
+    .ship_ref_container {
+        width: 245px;
+    }
+
+    .ship_ref_container hr {
+        width: 245px;
+    }
+
+    .ship_ref a {
+        font-size: 30px;
+    }
+
+    .ship_ref {
+        padding-bottom: 10px;
+    }
+
+    .moon_info h3 {
+        font-size: 55px;
+    }
+
+    .moon_wrapper > img {
+        max-width: 80vw;
+    }
+
+    .moon_info_text {
+        margin-bottom: 30px;
+    }
+
+    .mars_info h3 {
+        font-size: 55px;
+    }
+
+    .mars_wrapper > img {
+        max-width: 80vw;
+    }
+
+    .mars_info_text {
+        margin-bottom: 30px;
+    }
+
+    .europa_info h3 {
+        font-size: 55px;
+    }
+
+    .europa_wrapper > img {
+        max-width: 80vw;
+    }
+
+    .europa_info_text {
+        margin-bottom: 30px;
+    }
+
+    .order_text_destination h3 {
+        font-size: 60px;
+    }
+
+    .order_text_elonMask p {
+        font-size: 11px;
+    width: 312px;
+    }
+
+    .form_select {
+        font-size: 14px;
+        background-image: none;
+    }
+
+    .user_select {
+        font-size: 14px;
+    }
+
+    .form_div {
+        width: 160px;
+        height: 94px
+    }
+
+    .form_div:nth-child(1) {
+        width: 200px;
+    }
+
+    .form_div p {
+        font-size: 8px;
+        text-align: center;
+    }
+
+    .form_div:nth-child(1) p {
+        padding-left: unset;
+    }
+
+    .form_div:nth-child(2) p {
+        padding-left: unset;
+    }
+
+    .form_div:nth-child(3) p {
+        padding-left: unset;
+    }
+    .form_div:nth-child(4) p {
+        padding-left: unset;
+    }
+
+    .changed {
+        font-size: 12px;
+        padding: 20px 20px;
+    }
+
+    .footer_top_logo {
+        background-size: contain;
+        width: 120px;
+        height: 62px;
+        margin-bottom: unset;
+    }
+
+    .footer_top {
+        padding-top: 20px;
+    }
+
+    .footer_top_links h5 {
+        font-size: 8px;
+    }
+
+    .footer a {
+        font-size: 11px;
+    }
+
+    .footer_bottom p {
+        font-size: 9px;
+        padding-bottom: 15px;
+    }
+
+    .footer_bottom {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer_bottom a {
+        font-size: 9px;
+    }
+
+    .footer_top_socialNetworks img {
+        padding: 7px;
+        width: 95%;
+    }
+
+    .Login {
+        font-size: 60%;
+    }
+
+    .btn-group-lg>.btn, .btn-lg {
+        font-size: 90%;
+    }
+}
+
+/* 375px */
+
+@media (max-width: 376px) {
+    .header_hamburger_btn {
+        left: 39px;
+        top: 55px;
+    }
+
+    .header_hamburger_btn > span {
+        width: 60%;
+    }
+    
+    .header_logo {
+        background-size: contain;
+        width: 100px;
+        height: 62px;
+    }
+
+    .header_search {
+        left: 50px;
+        top: 11px;
+        margin-right: unset;
+    }
+
+    .header_search .search::before {
+        left: 15px;
+        width: 4px;
+      }
+    
+      .header_search .search::after {
+        top: 0px;
+        left: -3px;
+        width: 9px;
+        height: 9px;
+      }
+
+    .header_appControl {
+        padding-bottom: 11px;
+    }
+
+    .header_login {
+        font-size: 8px;
+        padding-bottom: 20px;
+    }
+
+    .promo_text h3 {
+        font-size: 60px;
+    }
+
+    .promo_wrapper > p {
+        font-size: 19px;
+    }
+
+    .button_order {
+        padding: 20px 20px;
+    }
+
+    .changed {
+        font-size: 9px;
+    }
+
+    .ship_demonstration {
+        padding-top: 50px;
+        margin-bottom: unset;
+    }
+
+    .ship_demonstration_left h4 {
+        font-size: 28px;
+        width: 295px;
+    }
+
+    .ship_demonstration_right-text {
+        margin-left: -32px;
+    }
+
+    .ship_demonstration_right-text p {
+        font-size: 8px;
+    }
+
+    .ship_demonstration_right-text h5 {
+        font-size: 17px;
+    }
+
+    .ship_demostration_right img {
+        width: 276px;
+        height: 166px;
+    }
+
+    .ship_button {
+        width: 15px;
+        height: 15px;
+    }
+
+    .ship_button img {
+        width: 10px;
+        height: 6px;
+        margin-bottom: 28px;
+    } 
+
+    .ship_info > p {
+        font-size: 8px;
+        width: 270px;
+    }
+
+    .ship_info > div > h4 {
+        font-size: 28px;
+    }
+
+    .ship_info > div > p {
+        font-size: 10px;
+        width: 262px;
+    }
+
+    .ship_ref a {
+        font-size: 28px;
+    }
+
+    .moon_info h3 {
+        font-size: 60px;
+    }
+
+    .moon_info_brief {
+        font-size: 20px;
+    }
+
+    .moon_info_text {
+        width: 202px;
+        font-size: 10px;
+        margin-bottom: 40px;
+    }
+
+    .moon_wrapper > img {
+        margin-bottom: 20px;
+    }
+
+    .mars_info h3 {
+        font-size: 60px;
+    }
+
+    .mars_info_brief {
+        font-size: 20px;
+    }
+
+    .mars_info_text {
+        width: 249px;
+        font-size: 10px;
+        margin-bottom: 40px;
+    }
+
+    .mars_wrapper > img {
+        margin-bottom: 20px;
+    }
+
+    .europa_info h3 {
+        font-size: 60px;
+    }
+
+    .europa_info_brief {
+        font-size: 20px;
+    }
+
+    .europa_info_text {
+        width: 249px;
+        font-size: 10px;
+        margin-bottom: 40px;
+    }
+
+    .europa_wrapper > img {
+        margin-bottom: 20px;
+    }
+
+    .order_text_destination h3 {
+        font-size: 50px;
+    }
+
+    .order_text_destination h4 {
+        font-size: 50px;
+    }
+
+    .footer_top_links {
+        column-gap: 35px;
+    }
+
+    .footer_top_links h5 {
+        margin-bottom: 5px;
+    }
+
+    .footer a {
+        font-size: 10px;
+    }
+
+    .footer_top_socialNetworks img {
+        padding: 10px;
+    }
+
+    .footer_bottom a {
+        font-size: 7px;
+    }
+
+    .footer_top_socialNetworks img {
+        padding: 6px;
+        width: 80%;
+    }
+}
+
+/* 320px */
+
+@media (max-width: 321px) {
+
+    .header_hamburger_btn {
+        left: 32px;
+    }
+
+    .header_search {
+        left: 42px;
+    }
+
+    .header_search input:focus {
+        width: 76vw;
+        height: 20%;
+        opacity: 1;
+        cursor: text;
+      }
+    
+      .header_search input:focus~.search {
+        left: 61vw;
+        background: transparent;
+        z-index: 6;
+      }
+
+    .moon_wrapper > img {
+        max-width: 90vw;
+    }
+
+    .mars_wrapper > img {
+        max-width: 90vw;
+    }
+
+    .europa_wrapper > img {
+        max-width: 90vw;
+    }
+
+    .form_select {
+        font-size: 10px;
+    }
+
+    .user_select {
+        font-size: 10px;
+    }
+
+    .button_order {
+        padding: 20px 20px;
+    }
+
+    .form_div {
+        width: 150px;
+        height: 65px;
+    }
+
+    .footer a {
+        font-size: 7px;
+    }
+
+    .footer_bottom a {
+        font-size: 6px;
+    }
+
+    .footer_top_links h5 {
+        font-size: 7px;
+    }
+}
