@@ -17,11 +17,11 @@ In this project I mastered:
 - slider component
 - work with a cart
 
-All components are in the src folder. All other files were generated with react-create-app.
+All components are in the src folder. All other files were generated with *react-create-app*.
 
 You can run this project locally just do:
 
-- clone a branch with git clone [https://github.com/Sob96/spaceApp.git](https://github.com/Sob96/spaceApp.git) or fork it and then clone from your forked repo
+- clone a master branch with *git clone* [https://github.com/Sob96/spaceApp.git](https://github.com/Sob96/spaceApp.git) or fork it and then clone from your forked repo
 - cd spaceApp
 - npm install
 - npm start
