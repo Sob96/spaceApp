@@ -51,7 +51,7 @@ function App() {
 
   	return (
     <AppContext.Provider value={{planets, setPlanets, orders, setOrders, users, setUsers, toggleElem, setToggleElem}}>
-			<Router basename="/spaceApp">
+			<Router>
 				<Header />
 				<Routes>
 					<Route path="/" element={<Main />}></Route>
