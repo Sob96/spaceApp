@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/spaceApp/static/css/main.5740563d.css",
+    "main.js": "/spaceApp/static/js/main.2b8bee95.js",
+    "static/media/promo_moon.png": "/spaceApp/static/media/promo_moon.5ceb665ffd20f79d6eba.png",
+    "static/media/order_moon.png": "/spaceApp/static/media/order_moon.878e46e28e6e55a05551.png",
+    "static/media/europa.svg": "/spaceApp/static/media/europa.669e4e239d83c6ae82a41f867c5fcad4.svg",
+    "static/media/mars.svg": "/spaceApp/static/media/mars.f84fc211fd7b8400f57c18836ca61765.svg",
+    "static/media/order_plus.svg": "/spaceApp/static/media/order_plus.3f2159243cc1a1649388.svg",
+    "static/media/ship_dots.svg": "/spaceApp/static/media/ship_dots.9c3f612805813320352773443d7c5858.svg",
+    "static/media/moon.svg": "/spaceApp/static/media/moon.002ac50d69e8899a403691d1e156be3d.svg",
+    "static/media/ship.png": "/spaceApp/static/media/ship.55a55dd3d3e9c11a7b14.png",
+    "static/media/AvenirLTProHeavy.otf": "/spaceApp/static/media/AvenirLTProHeavy.046f555ad14bc1c7de84.otf",
+    "static/media/AvenirLTProBlack.otf": "/spaceApp/static/media/AvenirLTProBlack.49d33e4f605686725656.otf",
+    "static/media/AvenirLTProRoman.otf": "/spaceApp/static/media/AvenirLTProRoman.f328085c9e596d010fcd.otf",
+    "static/media/footer_logo.svg": "/spaceApp/static/media/footer_logo.976583eee3e307ba585a.svg",
+    "static/media/header_logo.svg": "/spaceApp/static/media/header_logo.3c9e1944c648b0cc05b7.svg",
+    "static/media/footer_instagram.svg": "/spaceApp/static/media/footer_instagram.05bc53458c033785f8895a950cd09b0d.svg",
+    "static/media/footer_twitter.svg": "/spaceApp/static/media/footer_twitter.926eaa6a310e248621bcaa9f6321040a.svg",
+    "static/media/footer_facebook.svg": "/spaceApp/static/media/footer_facebook.820ed2bba214e5c9530876f89de7e076.svg",
+    "index.html": "/spaceApp/index.html",
+    "static/media/ship_play.svg": "/spaceApp/static/media/ship_play.034670a76c29778b90261553cc3815a6.svg",
+    "static/media/order_arrow.svg": "/spaceApp/static/media/order_arrow.0ef346e7669c4e7924d0.svg",
+    "main.5740563d.css.map": "/spaceApp/static/css/main.5740563d.css.map",
+    "main.2b8bee95.js.map": "/spaceApp/static/js/main.2b8bee95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5740563d.css",
+    "static/js/main.2b8bee95.js"
+  ]
+}
